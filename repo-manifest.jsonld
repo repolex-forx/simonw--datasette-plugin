@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/simonw/datasette-plugin",
+  "@type": "gh:Repository",
+  "gh:name": "datasette-plugin",
+  "gh:owner": "simonw",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/simonw/datasette-plugin/commit/ee9f1f1bb15c6b8709bb31a7d49cf5fc7d3ee24d",
+      "git:hexsha": "ee9f1f1bb15c6b8709bb31a7d49cf5fc7d3ee24d",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
