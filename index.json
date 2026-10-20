@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-plugin",
+  "versions": [
+    {
+      "commit": "ee9f1f1bb15c6b8709bb31a7d49cf5fc7d3ee24d",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:15:07.510531+00:00"
+    }
+  ]
+}
